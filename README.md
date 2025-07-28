@@ -19,22 +19,22 @@ Dự án mẫu cho môn **Lập trình Java nâng cao** với các chức năng:
 
 ## 2. Cấu trúc thư mục
 
-WebUploadEmail/
-├── pom.xml
-├── src/
-│ ├── main/java/com/example/controller
-│ │ ├── UploadServlet.java
-│ │ └── RegisterServlet.java
-│ ├── main/java/com/example/model
-│ │ └── User.java
-│ ├── main/java/com/example/utils
-│ │ └── MailUtils.java
-│ └── main/webapp
-│ ├── index.jsp
-│ ├── register.jsp
-│ ├── result.jsp
-│ ├── upload/ (folder lưu file upload)
-│ └── WEB-INF/web.xml
+WebUploadEmail/<br>
+├── pom.xml<br>
+├── src/<br>
+│ ├── main/java/com/example/controller<br>
+│ │ ├── UploadServlet.java<br>
+│ │ └── RegisterServlet.java<br>
+│ ├── main/java/com/example/model<br>
+│ │ └── User.java<br>
+│ ├── main/java/com/example/utils<br>
+│ │ └── MailUtils.java<br>
+│ └── main/webapp<br>
+│ ├── index.jsp<br>
+│ ├── register.jsp<br>
+│ ├── result.jsp<br>
+│ ├── upload/ (folder lưu file upload)<br>
+│ └── WEB-INF/web.xml<br>
 
 ---
 
