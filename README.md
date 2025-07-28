@@ -59,17 +59,17 @@ final String password = "your_app_password";
 ### Bước 4: Chạy dự án
 - Chuột phải project → Run.
 - Mở trình duyệt:
-+ Upload file: http://localhost:8080/WebUploadEmail/index.jsp
-+ Gửi email: http://localhost:8080/WebUploadEmail/register.jsp
+  - Upload file: `http://localhost:8080/WebUploadEmail/index.jsp`
+  - Gửi email: `http://localhost:8080/WebUploadEmail/register.jsp`
 
 ---
 
 ## 4. Chức năng chính
 - Upload file
-+ Nhập tên, email, chọn ảnh → Submit → hiển thị ảnh đã upload.
-+ Lưu tên đăng nhập vào Cookie.
+    - Nhập tên, email, chọn ảnh → Submit → hiển thị ảnh đã upload.
+    - Lưu tên đăng nhập vào Cookie.
 - Gửi email
-+ Nhập email → gửi mail chào mừng.
+    - Nhập email → gửi mail chào mừng.
 
 ---
 
